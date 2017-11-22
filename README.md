@@ -1,4 +1,4 @@
-# ARCHON--PROTOApp
+# ARCHON-with-Social Media Functin
 
 Prototype App for Archon Consulting
-Will try to implement JSON Data to Job Openins in Tables XD
+Implemented Social Media Sharing and Email/SMS
